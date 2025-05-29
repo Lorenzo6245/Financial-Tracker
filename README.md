@@ -7,4 +7,5 @@ https://github.com/FireBlaze360308YT/Financial-Tracker
 - customtkinter
 - pandas
 - numpy
+
 in the files you can find one called setup.py wich is going to install all the libraries you need.
